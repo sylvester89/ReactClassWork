@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
 // import userList from '../../Assets/Data/users.json';
-import User from "./User/User.js";
+import User from "./User/User";
 import Loading from "../Loading/Loading";
 
 import "./Users.css";

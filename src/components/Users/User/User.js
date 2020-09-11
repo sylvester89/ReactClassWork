@@ -21,7 +21,7 @@ export default class User extends Component {
   titleClick = () => {
     this.setState({
       styleTitle: {
-        color: "blue",
+        color: "purple",
         backgroundColor: "pink",
         textAlign: "center",
       },
